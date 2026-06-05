@@ -1,4 +1,5 @@
-# Post-Test Praktikum Algoritma dan Pemrograman - Kelompok 1 (Kelas F)
+# Post-Test Praktikum Algoritma dan Pemrograman 
+Kelompok 1 (Kelas F)
 
 Repositori ini digunakan sebagai laporan, pusat penyimpanan, dan dokumentasi seluruh hasil kerja Kelompok 1 Kelas F pada Post-Test Praktikum Algoritma dan Pemrograman, Departemen Teknik Elektro, Universitas Diponegoro Tahun 2026.
 
