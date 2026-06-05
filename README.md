@@ -4,7 +4,7 @@ Repositori ini digunakan sebagai laporan, pusat penyimpanan, dan dokumentasi sel
 
 ---
 
-## 🛠️ Bahasa dan Teknologi yang Digunakan
+## Bahasa dan Teknologi yang Digunakan
 Proyek ini dikembangkan dan divisualisasikan menggunakan teknologi berikut:
 * **Bahasa Pemrograman:** Python
 * **Library Utama:** Pandas, Matplotlib, Seaborn
@@ -12,7 +12,7 @@ Proyek ini dikembangkan dan divisualisasikan menggunakan teknologi berikut:
 
 ---
 
-## 📂 Struktur Repositori
+## Struktur Repositori
 Penyimpanan file dalam repositori ini dibagi menjadi tiga direktori utama agar rapi dan mudah ditelusuri:
 
 * 📁 **`Infografis/`** — Berisi hasil akhir visualisasi data dan desain infografis.
@@ -21,7 +21,7 @@ Penyimpanan file dalam repositori ini dibagi menjadi tiga direktori utama agar r
 
 ---
 
-## 👥 Anggota Kelompok & Pembagian Tugas
+##  Anggota Kelompok & Pembagian Tugas
 
 Setiap anggota memiliki peran spesifik agar pengerjaan proyek berjalan dengan baik dan terstruktur.
 
