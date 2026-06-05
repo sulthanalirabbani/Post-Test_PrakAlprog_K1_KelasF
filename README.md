@@ -30,9 +30,9 @@ Proyek ini dikembangkan dan divisualisasikan menggunakan teknologi berikut:
 ## Struktur Repositori
 Penyimpanan file dalam repositori ini dibagi menjadi tiga direktori utama agar rapi dan mudah ditelusuri:
 
-* 📁 **`Infografis/`** — Berisi hasil akhir visualisasi data dan desain infografis.
-* 📁 **`Kode Sumber (source code)/`** — Berisi file notebook Python (.ipynb) dan script yang digunakan untuk pengolahan data.
-* 📁 **`Kumpulan Data (dataset)/`** — Berisi data mentah dan data yang sudah dibersihkan (cleaned data) yang digunakan sebagai basis analisis.
+* [📁 **Infografis**](Infografis) — Berisi hasil akhir visualisasi data dan desain infografis.
+* [📁 **Kode Sumber (source code)**](<Kode Sumber (source code)>) — Berisi file notebook Python (.ipynb) dan script yang digunakan untuk pengolahan data.
+* [📁 **Kumpulan Data (dataset)**](<Kumpulan Data (dataset)>) — Berisi data mentah dan data yang sudah dibersihkan (cleaned data) yang digunakan sebagai basis analisis.
 
 ---
 
